@@ -17,5 +17,5 @@ Clone the source code from SimplePondres (https://github.com/VictorRosaValdez/Si
 # Run the dabase
 On your Package Manager Console run update-database to create the SQL database on your local SSMS
 
-#Maintainer
+# Maintainer
 https://github.com/VictorRosaValdez
