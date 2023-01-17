@@ -4,7 +4,7 @@ SimplePondres is a .NET WEB API for managing paper orders.
 
 # Description
 The repository contains the SimplePondres WEB API for managing paper orders.
-This will allow the customers to view and manage paper orders.The main objects are Order, Proudct and Company.
+This will allow the customers to view and manage paper orders.The main objects are Order, Product and Company.
 
 ## Installation
 
